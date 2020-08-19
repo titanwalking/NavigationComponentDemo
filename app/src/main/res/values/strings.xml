@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationComponentSingleActivityDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_login_fragment">Hello blank fragment</string>
+    <string name="hello_landing_fragment">Hello landing fragment</string>
+    <string name="landing_welcome">Welcome %s</string>
+</resources>
